@@ -1,1 +1,1 @@
-# MyNewTemplate2
+# MyTemplate2
